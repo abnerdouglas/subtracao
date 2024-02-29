@@ -10,6 +10,7 @@
   "author": "abner",
   "license": "ISC",
   "dependencies": {
+    "divisao": "github:mafemad/divisao",
     "multiplicacao": "github:BrunoVieira003/multiplicacao"
   }
 }
